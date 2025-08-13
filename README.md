@@ -6,7 +6,7 @@ Here we see three different models: Single hidden layer NN, Neural Network with 
 Goal - Minimum RMSE (bu/acre) with a generalization ratio (MAE) of < 1.25
 
 Results:
-  Keras Sequential: 
+  Keras Sequential:\n 
     Features: Genetic Data
     RMSE Train: 29.67
     RMSE Validaton: 29.80 
