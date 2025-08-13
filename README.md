@@ -6,7 +6,8 @@ Here we see three different models: Single hidden layer NN, Neural Network with 
 Goal - Minimum RMSE (bu/acre) with a generalization ratio (MAE) of < 1.25
 
 Results:
-  Keras Sequential:\n 
+  Keras Sequential:
+
     Features: Genetic Data
     RMSE Train: 29.67
     RMSE Validaton: 29.80 
@@ -14,6 +15,7 @@ Results:
     Generalization Train/Validation MAE: 1.05
 
   Keras Functional API FFNN:
+  
     Features: Genetic Data, Location (Ag District, State-County)
     RMSE Train: 20.84 bu/acre
     RMSE Validaton: 21.12 bu/acre
@@ -21,6 +23,7 @@ Results:
     Generalization Train/Validation MAE: 1.08
 
  Keras Transformer Model:
+ 
     Features: Rain and Temp (Jan - July), Genetic Data, State-Country
     RMSE Train: 15.14 bu/acre
     RMSE Validaton: 17.77 bu/acre
