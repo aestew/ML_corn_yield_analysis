@@ -30,7 +30,8 @@ Results:
     RMSE Test: 16.60 bu/acre
     Generalization Train/Validation MAE: 1.18
 
-NOTE: This is work completed in introduction to ML. All the models presented above were created by me.
+NOTE: This is work completed in introduction to ML. All the models presented above were created by me. Our group report is attached with contributions noted in the report from Chad Adelman, Michael White and Yoko Morishita.
+
 
 
 
